@@ -1,2 +1,5 @@
 #Provident Fund registration Form
 #This is a JAVA mini application to register employees for the Provident Fund.
+
+
+Employees working in any company are eligible to apply for Provident Fund.
